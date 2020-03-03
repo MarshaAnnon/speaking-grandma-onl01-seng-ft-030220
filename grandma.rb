@@ -1,8 +1,3 @@
-
-def speak_to_grandma(string)
-  if speak_to_grandma == "#{string}"
-    puts "HUH?! SPEAK UP, SONNY!"
-end
 # Write a speak_to_grandma method.
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
