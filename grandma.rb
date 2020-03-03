@@ -1,4 +1,4 @@
-def speak_to_grandma(string==upcase)
+def speak_to_grandma("string==upcase")
   if speak_to_grandma == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   end
